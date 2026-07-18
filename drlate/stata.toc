@@ -2,4 +2,4 @@
 1
 2
 3
-p cixr calculates the concentration index (CIX) and can handle grouped data or microdata Use cixr With STATA 19
+p drlate Doubly robust estimation of the local average treatment effect (LATE) and the local average treatment effect on the treated (LATT) Use drlate With STATA 19
