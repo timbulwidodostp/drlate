@@ -1,6 +1,8 @@
 # drlate
 Doubly robust estimation of the local average treatment effect (LATE) and the local average treatment effect on the treated (LATT) Use drlate With STATA 19
 
+https://www.youtube.com/watch?v=EEo-JNgAFmc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
